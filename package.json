@@ -1,0 +1,15 @@
+{
+    "name": "testomatio-workshop",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {
+        "typescript": "^5.8.3",
+        "vitest": "^3.2.4"
+    },
+    "scripts": {
+        "test": "vitest --config vitest.config.ts"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
